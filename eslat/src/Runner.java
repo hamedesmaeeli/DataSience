@@ -1,4 +1,7 @@
 import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -22,11 +25,13 @@ public class Runner {
     public static void main(String[] str)  {
         Runner runner = new Runner();
         System.out.println("hello");
-        File file = new File("c:\\IRIS.txt");
-        File outputFile =  new File("c:\\IRIS2.txt")
+        File file = new File(".\\IRIS.txt");
 
         FileInputStream fileInputStream = null;
         try {
+            Path path = Paths.get(".\\IRIS1.txt");
+            String content = new String(Files.readAllBytes(path), charset);
+
             fileInputStream = new FileInputStream(file);
             BufferedReader reader = new BufferedReader(new InputStreamReader(fileInputStream));
             ArrayList<String> listBuffer ;
@@ -37,16 +42,15 @@ public class Runner {
                 listBuffer = runner.parseIntsAndFloats(line);
 
                 System.out.println(listBuffer.toArray());
-
+                content = content.replaceAll("foo", "bar");
             }
+            Files.write(path, content.getBytes(charset));
 
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-
 
     }
 }
