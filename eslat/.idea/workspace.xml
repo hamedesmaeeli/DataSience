@@ -34,6 +34,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/spmf.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -44,15 +48,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,6 +75,7 @@
       <updated>1623738276187</updated>
       <workItem from="1623738277234" duration="1147000" />
       <workItem from="1623739468560" duration="1657000" />
+      <workItem from="1623817324401" duration="16106000" />
     </task>
     <servers />
   </component>
@@ -80,21 +83,61 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1623749713958">
+    <state x="280" y="4" key="#Project_Structure" timestamp="1623832904186">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1623749713958" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1623749713958">
+    <state x="280" y="4" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1623832904186" />
+    <state width="478" height="466" key="DebuggerActiveHint" timestamp="1623829733772">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1623749713958" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1623749713958">
+    <state width="478" height="466" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1623829733772" />
+    <state x="506" y="171" key="FileChooserDialogImpl" timestamp="1623832896632">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1623749713958" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1623749713958">
+    <state x="506" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1623832896632" />
+    <state width="1557" height="143" key="GridCell.Tab.0.bottom" timestamp="1623834348169">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1623749713958" />
+    <state width="1557" height="143" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1623834348169" />
+    <state width="1557" height="143" key="GridCell.Tab.0.center" timestamp="1623834348169">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="143" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1623834348169" />
+    <state width="1557" height="143" key="GridCell.Tab.0.left" timestamp="1623834348169">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="143" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1623834348169" />
+    <state width="1557" height="143" key="GridCell.Tab.0.right" timestamp="1623834348169">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="143" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1623834348169" />
+    <state width="1557" height="143" key="GridCell.Tab.1.bottom" timestamp="1623834348170">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="143" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1623834348170" />
+    <state width="1557" height="143" key="GridCell.Tab.1.center" timestamp="1623834348169">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="143" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1623834348169" />
+    <state width="1557" height="143" key="GridCell.Tab.1.left" timestamp="1623834348169">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="143" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1623834348169" />
+    <state width="1557" height="143" key="GridCell.Tab.1.right" timestamp="1623834348169">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="143" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1623834348169" />
+    <state x="301" y="74" key="SettingsEditor" timestamp="1623832828029">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="74" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1623832828029" />
+    <state width="808" height="438" key="XDebugger.FullValuePopup" timestamp="1623829816118">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="808" height="438" key="XDebugger.FullValuePopup/0.0.1600.860@0.0.1600.860" timestamp="1623829816118" />
+    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623825666772">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1623825666772" />
   </component>
 </project>
