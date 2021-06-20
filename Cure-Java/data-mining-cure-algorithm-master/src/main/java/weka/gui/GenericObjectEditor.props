@@ -269,7 +269,8 @@ weka.clusterers.Clusterer=\
  weka.clusterers.OPTICS,\
  weka.clusterers.sIB,\
  weka.clusterers.SimpleKMeans,\
- weka.clusterers.XMeans
+ weka.clusterers.XMeans , \
+ weka.clusterers.CureAlgorithm
  
 # Lists the UnsupervisedFilters I want to choose from
 weka.filters.UnsupervisedFilter=\

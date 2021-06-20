@@ -1,1 +1,3 @@
 https://github.com/deric/data-mining-cure-algorithm
+https://weka.8497.n7.nabble.com/How-to-add-new-algorithm-to-weka-td18669.html
+https://stackoverflow.com/questions/47746398/clustering-using-representatives-cure

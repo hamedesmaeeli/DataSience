@@ -38,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cure-Java/data-mining-cure-algorithm-master" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -79,7 +79,7 @@
       <workItem from="1623738277234" duration="1147000" />
       <workItem from="1623739468560" duration="1657000" />
       <workItem from="1623790594988" duration="1880000" />
-      <workItem from="1624165530764" duration="1295000" />
+      <workItem from="1624165530764" duration="1649000" />
     </task>
     <servers />
   </component>
@@ -87,6 +87,26 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1624167628453">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1624167628453" />
+    <state width="1557" height="144" key="GridCell.Tab.0.bottom" timestamp="1624167630171">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="144" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1624167630171" />
+    <state width="1557" height="144" key="GridCell.Tab.0.center" timestamp="1624167630171">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="144" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1624167630171" />
+    <state width="1557" height="144" key="GridCell.Tab.0.left" timestamp="1624167630171">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="144" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1624167630171" />
+    <state width="1557" height="144" key="GridCell.Tab.0.right" timestamp="1624167630171">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="144" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1624167630171" />
     <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1624167275527">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
