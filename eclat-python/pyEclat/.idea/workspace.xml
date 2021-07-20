@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="JupyterTrust" id="7b4f20d9-5e9d-46a0-bd0e-259b989b0ff4" />
+  <component name="JupyterTrust" id="3ba0ff41-c949-43fa-bd06-75a048373bd9" />
   <component name="ProjectId" id="1vWBwVi9XvK1D0KHowp6KJvIrN6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -54,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626668202305</updated>
       <workItem from="1626668205208" duration="6292000" />
+      <workItem from="1626756921070" duration="225000" />
     </task>
     <servers />
   </component>
@@ -61,10 +62,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1626669031935">
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1626757156072">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1626669031935" />
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1626757156072" />
     <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1626682301539">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

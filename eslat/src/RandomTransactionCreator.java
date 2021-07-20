@@ -24,7 +24,7 @@ public class RandomTransactionCreator {
         String output="";
         for(int i=0;i<numberOfTransaction; i++)
         {
-            System.out.print("***** I = "+i+1);
+            System.out.print("***** I = "+(i+1));
             int n = rand.nextInt(7);
 
             n++;
@@ -49,7 +49,7 @@ public class RandomTransactionCreator {
 
                 row = row+",";
             }
-            System.out.println("n= "+n+" row = "+ row);
+            System.out.println(" ***n= "+n+" row = "+ row);
             output = output+ row+"\n";
         }
         File outputFile =  new File(".\\outputEclat.csv");

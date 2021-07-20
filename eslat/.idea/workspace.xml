@@ -56,13 +56,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,7 +88,8 @@
       <workItem from="1623739468560" duration="1657000" />
       <workItem from="1623790594988" duration="1880000" />
       <workItem from="1624165530764" duration="1649000" />
-      <workItem from="1626677785841" duration="5483000" />
+      <workItem from="1626677785841" duration="6752000" />
+      <workItem from="1626752933773" duration="8517000" />
     </task>
     <servers />
   </component>
@@ -98,22 +101,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1624167628453" />
-    <state width="1557" height="144" key="GridCell.Tab.0.bottom" timestamp="1626682113858">
+    <state width="1557" height="289" key="GridCell.Tab.0.bottom" timestamp="1626753808419">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="144" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1626682113858" />
-    <state width="1557" height="144" key="GridCell.Tab.0.center" timestamp="1626682113858">
+    <state width="1557" height="289" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1626753808419" />
+    <state width="1557" height="289" key="GridCell.Tab.0.center" timestamp="1626753808419">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="144" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1626682113858" />
-    <state width="1557" height="144" key="GridCell.Tab.0.left" timestamp="1626682113858">
+    <state width="1557" height="289" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1626753808419" />
+    <state width="1557" height="289" key="GridCell.Tab.0.left" timestamp="1626753808419">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="144" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1626682113858" />
-    <state width="1557" height="144" key="GridCell.Tab.0.right" timestamp="1626682113858">
+    <state width="1557" height="289" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1626753808419" />
+    <state width="1557" height="289" key="GridCell.Tab.0.right" timestamp="1626753808419">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="144" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1626682113858" />
+    <state width="1557" height="289" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1626753808419" />
     <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1624167275527">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
