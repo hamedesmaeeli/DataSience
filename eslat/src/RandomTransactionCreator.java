@@ -1,11 +1,22 @@
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
+import java.io.*;
 import java.util.Random;
 
 public class RandomTransactionCreator {
+public static void shudownPc()
+{
+    Runtime runtime = Runtime.getRuntime();
+    BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 
+    System.out.print("Enter No. of Seconds after which You want your Computer to Shutdown :");
+    long a= 0;
+    try {
+        a = Long.parseLong(br.readLine());
+        Process proc = runtime.exec("shutdown -s -t " +a);
+    } catch (IOException e) {
+        e.printStackTrace();
+    }
+    System.exit(0);
+}
     public static void main(String[] str)
     {
         String st1 = "haftom-moharam";
@@ -51,18 +62,22 @@ public class RandomTransactionCreator {
             }
             System.out.println(" ***n= "+n+" row = "+ row);
             output = output+ row+"\n";
+            if(i % 10000 == 0)
+            {
+                File outputFile =  new File(".\\outputEclat.csv");
+                FileOutputStream fileOutputStream = null;
+                try {
+                    fileOutputStream = new FileOutputStream(outputFile);
+                    fileOutputStream.write(output.getBytes());
+                    fileOutputStream.close();
+                } catch (FileNotFoundException e) {
+                    e.printStackTrace();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+                System.out.println(output);
+            }
         }
-        File outputFile =  new File(".\\outputEclat.csv");
-        FileOutputStream fileOutputStream = null;
-        try {
-            fileOutputStream = new FileOutputStream(outputFile);
-            fileOutputStream.write(output.getBytes());
-            fileOutputStream.close();
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        System.out.println(output);
+    RandomTransactionCreator.shudownPc();
     }
 }
