@@ -78,6 +78,11 @@
       <workItem from="1626677785841" duration="6752000" />
       <workItem from="1626752933773" duration="10476000" />
       <workItem from="1627185552954" duration="8976000" />
+      <workItem from="1627791066141" duration="2716000" />
+      <workItem from="1627880590462" duration="1802000" />
+      <workItem from="1627961020220" duration="679000" />
+      <workItem from="1627970781636" duration="3388000" />
+      <workItem from="1628308673554" duration="2682000" />
     </task>
     <servers />
   </component>
@@ -85,10 +90,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1624167628453">
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1627961123722">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1624167628453" />
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1627961123722" />
     <state width="1557" height="147" key="GridCell.Tab.0.bottom" timestamp="1627268449444">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -109,5 +114,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1624167275527" />
+    <state x="182" y="50" key="new project wizard" timestamp="1627793615550">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1627793615550" />
   </component>
 </project>
