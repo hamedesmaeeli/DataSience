@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="018ae8bd-b091-4c4f-a2f7-eee7f1c91db0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,26 +37,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cure-Java/data-mining-cure-algorithm-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cure-Java/cure-algorithm-google-code" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Runner" />
       <module name="eslat-iris-convert" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -80,36 +66,13 @@
       <workItem from="1623739468560" duration="1657000" />
       <workItem from="1623790594988" duration="1880000" />
       <workItem from="1624165530764" duration="1649000" />
+      <workItem from="1626841903945" duration="1310000" />
+      <workItem from="1626848609195" duration="235000" />
+      <workItem from="1626902248194" duration="33000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1624167628453">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1624167628453" />
-    <state width="1557" height="144" key="GridCell.Tab.0.bottom" timestamp="1624167630171">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="144" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1624167630171" />
-    <state width="1557" height="144" key="GridCell.Tab.0.center" timestamp="1624167630171">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="144" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1624167630171" />
-    <state width="1557" height="144" key="GridCell.Tab.0.left" timestamp="1624167630171">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="144" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1624167630171" />
-    <state width="1557" height="144" key="GridCell.Tab.0.right" timestamp="1624167630171">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="144" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1624167630171" />
-    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1624167275527">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1624167275527" />
   </component>
 </project>
