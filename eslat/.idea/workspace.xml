@@ -37,10 +37,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cure-Java/cure-algorithm-google-code" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> a9313113a6365bbd228a65c150b53a1eccc4d8a8
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.RandomTransactionCreator">
+    <configuration name="RandomTransactionCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomTransactionCreator" />
+      <module name="eslat-iris-convert" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+=======
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Runner" />
       <module name="eslat-iris-convert" />
@@ -48,8 +61,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+>>>>>>> a9313113a6365bbd228a65c150b53a1eccc4d8a8
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomTransactionCreator" />
         <item itemvalue="Application.Runner" />
       </list>
     </recent_temporary>
@@ -66,13 +81,57 @@
       <workItem from="1623739468560" duration="1657000" />
       <workItem from="1623790594988" duration="1880000" />
       <workItem from="1624165530764" duration="1649000" />
+<<<<<<< HEAD
       <workItem from="1626841903945" duration="1310000" />
       <workItem from="1626848609195" duration="235000" />
       <workItem from="1626902248194" duration="33000" />
+=======
+      <workItem from="1626677785841" duration="6752000" />
+      <workItem from="1626752933773" duration="10476000" />
+      <workItem from="1627185552954" duration="8976000" />
+      <workItem from="1627791066141" duration="2716000" />
+      <workItem from="1627880590462" duration="1802000" />
+      <workItem from="1627961020220" duration="679000" />
+      <workItem from="1627970781636" duration="3388000" />
+      <workItem from="1628308673554" duration="2682000" />
+>>>>>>> a9313113a6365bbd228a65c150b53a1eccc4d8a8
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="WindowStateProjectService">
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1627961123722">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1627961123722" />
+    <state width="1557" height="147" key="GridCell.Tab.0.bottom" timestamp="1627268449444">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="147" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1627268449444" />
+    <state width="1557" height="147" key="GridCell.Tab.0.center" timestamp="1627268449444">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="147" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1627268449444" />
+    <state width="1557" height="147" key="GridCell.Tab.0.left" timestamp="1627268449444">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="147" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1627268449444" />
+    <state width="1557" height="147" key="GridCell.Tab.0.right" timestamp="1627268449444">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="147" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1627268449444" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1624167275527">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1624167275527" />
+    <state x="182" y="50" key="new project wizard" timestamp="1627793615550">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1627793615550" />
+  </component>
+>>>>>>> a9313113a6365bbd228a65c150b53a1eccc4d8a8
 </project>
